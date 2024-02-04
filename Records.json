@@ -1,0 +1,22 @@
+{
+    "1001": {
+        "Name": "AMUL",
+        "Price": 100,
+        "Quantity": 980
+    },
+    "1002": {
+        "Name": "Bar-ONE",
+        "Price": 200,
+        "Quantity": 0
+    },
+    "1003": {
+        "Name": "Candy",
+        "Price": 100,
+        "Quantity": 500
+    },
+    "1004": {
+        "Name": "CAKE",
+        "Price": 900,
+        "Quantity": 200
+    }
+}
